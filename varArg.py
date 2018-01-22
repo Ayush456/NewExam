@@ -7,3 +7,4 @@ def varArg( arg1, *multiArg ):
 
 varArg(10)
 varArg(10,20,30,40,50)
+#
